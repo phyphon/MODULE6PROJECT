@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.iidproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\tiesp\\OneDrive\\OneDrive Documents\\University Documents\\Module 6\\HCI Design & Evaluation\\IIDProject\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "IIDProject [Testing]"
+        }
+      }
+    }
+  ]
+}
